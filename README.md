@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alif Nur Firdaus</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alipnf&label=Profile%20views&color=0e75b6&style=flat" alt="alipnf" /> </p>
-
 <p align="left">
 </p>
 
