@@ -24,4 +24,4 @@
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=alipnf&theme=gruvbox_duo)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=alipnf&theme=gruvbox_duo)](https://git.io/streak-stats) -->
