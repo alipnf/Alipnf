@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alif Nur Firdaus</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alipnf&label=Profile%20views&color=0e75b6&style=flat" alt="alipnf" /> </p>
+[![wakatime](https://wakatime.com/badge/user/dc594c45-5f7a-4999-a3ab-f3a7be081eff.svg)](https://wakatime.com/@dc594c45-5f7a-4999-a3ab-f3a7be081eff)
 
 - 🌱 I’m currently learning **Front-End Web Developer**
 
