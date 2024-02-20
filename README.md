@@ -4,22 +4,18 @@
 [![wakatime](https://wakatime.com/badge/user/dc594c45-5f7a-4999-a3ab-f3a7be081eff.svg)](https://wakatime.com/@dc594c45-5f7a-4999-a3ab-f3a7be081eff)
 - 🌱 I’m currently learning **Front-End Web Developer**
 - 📫 How to reach me **alipnf@proton.me**
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=alipnf&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+  alt="alipnf"
+/>
 
-
-<div style="display: flex; justify-content: center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alipnf&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="alipnf"
-  />
-</div>
-
-<div style="display: flex; justify-content: center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alipnf&show_icons=true&locale=en&theme=tokyonight"
-    alt="alipnf"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alipnf&theme=tokyonight"
-    alt="alipnf"
-  />
-</div>
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api?username=alipnf&show_icons=true&locale=en&theme=tokyonight"
+  alt="alipnf"
+/>
+<img
+  align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=alipnf&theme=tokyonight"
+  alt="alipnf"
+/>
