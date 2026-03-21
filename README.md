@@ -1,6 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/indonesia/USERNAME.svg)](https://user-badge.committers.top/indonesia/alipnf)
-
-```json
+  ```json
 {
   "username": "alipnf",
   "title": "Computer Science Student",
