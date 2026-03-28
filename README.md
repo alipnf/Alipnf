@@ -1,5 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/indonesia/alipnf.svg)](https://user-badge.committers.top/indonesia/alipnf)
-  
+[![committers.top badge](https://user-badge.committers.top/indonesia_private/alipnf.svg)](https://user-badge.committers.top/indonesia_private/alipnf)
   ```json
 {
   "username": "alipnf",
