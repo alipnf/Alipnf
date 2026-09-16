@@ -19,12 +19,6 @@ currently:
 * configuring neovim instead of doing actual work
 * trying not to reinstall linux again
 
-### stuff i use
-
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js`
-
-`PostgreSQL` · `Supabase` · `Docker` · `Git`
-
 ### coding activity
 
 [![wakatime](https://wakatime.com/badge/user/dc594c45-5f7a-4999-a3ab-f3a7be081eff.svg)](https://wakatime.com/@dc594c45-5f7a-4999-a3ab-f3a7be081eff)
